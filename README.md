@@ -61,8 +61,14 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats</b>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=a-az&show_icons=true&locale=en&theme=tokyonight" alt="a-az" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-az&theme=tokyonight" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-az&show_icons=true&locale=en&theme=tokyonight" alt="a-az" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-az&theme=tokyonight&layout=donut" /></p>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of, and doesn't reflect experience or skills level.
 
+<hr>
+
+<b>Credit:</b> [Abdelrahman](https://github.com/A-AZ)
+
+
+<b>Last Update:</b> May 26, 2023
