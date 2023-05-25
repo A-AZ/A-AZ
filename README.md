@@ -22,6 +22,7 @@
 - 🌱 I am currently learning Laravel framework.
 - 💼 I am open for an Intern or a new job opportunity, this is my [Linkedin](https://linkedin.com/in/abdelrahman-abu-zahra) profile.
 - ⚡️ Fun Fact: I hold Bsc. Degree in Mechnical Engineering.
+<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -57,5 +58,11 @@
 </p>
 
 <br>
-<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats</b>
+
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=a-az&show_icons=true&locale=en&theme=tokyonight" alt="a-az" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-az&theme=tokyonight" /></p>
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of, and doesn't reflect experience or skills level.
 
